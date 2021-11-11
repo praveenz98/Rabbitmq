@@ -1,2 +1,2 @@
 # Rabbitmq
-Message queues
+connecting Nestjs to RabbitMQ

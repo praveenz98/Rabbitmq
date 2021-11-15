@@ -1,1 +1,7 @@
-default port 15672
+#Rabbitmq management
+
+C:\Program Files\RabbitMQ Server\rabbitmq_server-3.9.8\sbin
+
+#command for management
+
+rabbitmq-plugins enable rabbitmq_management
